@@ -1,0 +1,7 @@
+# A list of host names can be used in this file is resolvable via DNS or host ip addresses. Granted IP routing and firewall policies need to be updated to run these scripts successfully.
+
+# Example host names
+
+web01
+web02
+web03
