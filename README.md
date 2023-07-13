@@ -1,4 +1,4 @@
-# ![My Skills](https://skillicons.dev/icons?i=bash,linux) 
+# ![My Skills](https://skillicons.dev/icons?i=bash,linux,github) 
 # MultiOS-WebSetup
 
 Using 2 scripts and one host txt file for the setup of a static HTML website on either CentOS and/or Ubuntu Linux servers.
